@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+   background: url(../images/doska.png) center no-repeat; 
+   padding: 190px;
+}
+h1 {
+    color: white;
+}
+
+select {
+    padding: 5px;
+    width: 250px;
+    margin: 10px 10px 10px 10px;
+    border: 2px solid #be8148;
+}
+.radio{
+    color: #fff;
+}
+input {
+    margin: 5px;
+}
+label{
+    margin-left: 10px;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+.buttontext {
+    margin-top: 50px;
+    background-color: #d2fc69;
+    padding: 10px 15px 10px 15px;
+}
+.buttontext:hover {
+    background-color: #b6ff00;
+}
+.button {
+    padding: 10px;
+}

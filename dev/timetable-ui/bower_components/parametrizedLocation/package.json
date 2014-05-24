@@ -1,0 +1,51 @@
+{
+  "name": "parametrizedLocation",
+  "version": "0.3.1",
+  "description": "Extend angular.$location with support for a parametrized URL template with parameters (like angular.$resource) prefixed by `:`.",
+  "main": "dist/parametrizedLocation.js",
+  "scripts": {
+    "test": "test/parametrizedLocationSpec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eonlepapillon/parametrizedLocation.git"
+  },
+  "keywords": [
+    "angular",
+    "$location",
+    "$resource",
+    "parametrized",
+    "p",
+    "params",
+    "url",
+    "path",
+    "hash"
+  ],
+  "author": "Peter Ahlers (eonlepapillon)",
+  "homepage": "https://plus.google.com/u/0/109953552136391486842",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eonlepapillon/parametrizedLocation/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-css": "~0.5.4",
+    "grunt-contrib-connect": "~0.1.2",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-karma": "~0.6.0",
+    "bower": "~0.9.2",
+    "karma": "~0.10.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-safari-launcher": "~0.1.1",
+    "karma-firefox-launcher": "~0.1.0",
+    "grunt-zip": "~0.9.2",
+    "grunt-bower-task": "~0.3.2",
+    "grunt-bower": "~0.6.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "karma-coverage": "~0.1.0"
+  }
+}

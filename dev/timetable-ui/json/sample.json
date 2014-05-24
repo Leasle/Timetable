@@ -1,0 +1,28 @@
+{ "timetable":
+  {
+    "universities":[
+      {
+        "university":"BSU",
+        "specialities": [
+              {
+                "speciality":"Web"
+              },
+              {
+                "speciality":"Mechanics"
+              }
+            ]
+      },
+      {
+        "university":"BSUIR",
+        "specialities":[
+              {
+                "speciality":"Web2"
+              },
+              {
+                "speciality":"Mechanics2"
+              }
+            ]
+      }
+    ]
+  }
+}

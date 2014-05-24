@@ -1,0 +1,34 @@
+{
+  "name": "parametrizedLocation",
+  "version": "0.3.1",
+  "homepage": "https://github.com/eonlepapillon/parametrizedLocation",
+  "authors": [
+    "Peter Ahlers (eonlepapillon)"
+  ],
+  "description": "Extend angular.$location with support for a parametrized URL template with parameters (like angular.$resource) prefixed by `:`.",
+  "main": "./dist/parametrizedLocation.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "angular",
+    "$location",
+    "$resource",
+    "parametrized",
+    "params",
+    "url",
+    "path",
+    "hash"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "angular": "~1.2.0",
+    "angular-mocks": "~1.2.0"
+  }
+}
